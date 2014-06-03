@@ -23,6 +23,6 @@ object Dependencies {
     scalaParsers,
     scalaTest % "test",
     mongoCasbah //,
-//    slf4j
+    // slf4j
   )
 }
